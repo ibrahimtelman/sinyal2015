@@ -1,6 +1,6 @@
 # sinyal2015
 
-Ýbrahim Telman
-30113005
-Sinyal Ýþleme
-Proje: MATLAB ile sentezleme
+<h1>ibrahim Telman</h1>
+<h2>030113005</h2>
+<h3>Sinyal iþleme</h3>
+<h4>Proje: MATLAB ile sentezleme</h4>
