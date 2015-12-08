@@ -1,0 +1,121 @@
+Ölçü 1:
+Mi 1/2
+Mi 1/2
+Mi 1/2
+Mi 1/2
+Fa 1
+Mi 1
+
+Ölçü 2:
+Durma 1/2
+Mi 1/2
+Mi 1/2
+Mi 1/2
+La 1
+Mi 1
+
+Ölçü 3:
+Re 1/2
+Re 1/2
+Re 1/2
+Re 1/2
+Mi 1
+Re 1
+
+Ölçü 4:
+Durma 1/2
+Re 1/2
+Re 1/2
+Re 1/2
+Mi 1
+Re 1
+
+Ölçü 5:
+Do 1/2
+Do 1/2
+Do 1/2
+Do 1/2
+Re 1
+Do 1
+
+Ölçü 6:
+Durma 1/2
+Do 1/2
+Do 1/2
+Do 1/2
+Re 1
+Do 1
+
+Ölçü 7:
+Si 1/2
+Si 1/2
+Si 1/2
+Si 1/2
+Do 1
+Si 1
+
+Ölçü 8:
+Durma 1/2
+Si 1/2
+Si 1/2
+Si 1/2
+Do 1
+Si 1
+
+Ölçü 9:
+La 4
+
+Ölçü 10:
+Re 1/2
+Re 1/2
+Re 1/2
+Re 1/2
+La 1
+Mi 1
+
+Ölçü 11:
+Durma 1/2
+Re 1/2
+Re 1/2
+Re 1/2
+La 1
+Sol 1/2
+Fa 1/2
+
+Ölçü 12:
+Mi 1/2
+Mi 1/2
+Mi 1/2
+Mi 1/2
+Fa 1
+Mi 1
+
+Ölçü 13:
+Durma 1/2
+Do 1/2
+Do 1/2
+Do 1/2
+Re 1
+Do 1
+
+Ölçü 14:
+Si 1/2
+Si 1/2
+Si 1/2
+Si 1/2
+Mi 2
+
+Ölçü 15:
+Durma 1/2
+Mi 1
+Re 1/2
+Do 1
+Si 1
+
+Ölçü 16:
+Do 4
+
+Ölçü 17:
+La 4
+
+
