@@ -1,4 +1,4 @@
-function[frek] = frek(nota,oktav=4)
+﻿function[frek] = frek(nota,oktav=4)
     
     baseDo = 16.35; %%Do notasının 0. oktavdaki değeri
     
@@ -74,7 +74,7 @@ function[frek] = frek(nota,oktav=4)
         
         case "Lad"
             frek = oktavDo*oranLa*2;
-        break/2
+        break
         
         case "Sid"
             frek = oktavDo*oranSi*2;
@@ -111,7 +111,7 @@ function[frek] = frek(nota,oktav=4)
             frek = oktavDo*oranSi/2;
         break
         
-        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+        %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
         case "sus"
             frek = 0;
         break
