@@ -1,119 +1,86 @@
-olcu 1:
 Mi,5,1/2
 Mi,5,1/2
 Mi,5,1/2
 Mi,5,1/2
 Fa,5,1
 Mi,5,1
-
-olcu 2:
-Durma,,1/2
+Sus,,1/2
 Mi,5,1/2
 Mi,5,1/2
 Mi,5,1/2
 La,5,1
 Mi,5,1
-
-olcu 3:
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 Mi,5,1
 Re,5,1
-
-olcu 4:
-Durma,,1/2
+Sus,,1/2
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 Mi,5,1
 Re,5,1
-
-olcu 5:
 Do,5,1/2
 Do,5,1/2
 Do,5,1/2
 Do,5,1/2
 Re,5,1
 Do,5,1
-
-olcu 6:
-Durma,,1/2
+Sus,,1/2
 Do,5,1/2
 Do,5,1/2
 Do,5,1/2
 Re,5,1
 Do,5,1
-
-olcu 7:
 Si,4,1/2
 Si,4,1/2
 Si,4,1/2
 Si,4,1/2
 Do,5,1
 Si,4,1
-
-olcu 8:
-Durma,,1/2
+Sus,,1/2
 Si,4,1/2
 Si,4,1/2
 Si,4,1/2
 Do,5,1
 Si,4,1
-
-olcu 9:
 La,4,4
-
-olcu 10:
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 La,5,1
 Mi,5,1
-
-olcu 11:
-Durma,,1/2
+Sus,,1/2
 Re,5,1/2
 Re,5,1/2
 Re,5,1/2
 La,5,1
 Sol,5,1/2
 Fa,5,1/2
-
-olcu 12:
 Mi,5,1/2
 Mi,5,1/2
 Mi,5,1/2
 Mi,5,1/2
 Fa,5,1
 Mi,5,1
-
-olcu 13:
-Durma,,1/2
+Sus,,1/2
 Do,5,1/2
 Do,5,1/2
 Do,5,1/2
 Re,5,1
 Do,5,1
-
-olcu 14:
 Si,4,1/2
 Si,4,1/2
 Si,4,1/2
 Si,4,1/2
 Mi,5,2
-
-olcu 15:
-Durma,,1/2
+Sus,,1/2
 Mi,5,1
 Re,5,1/2
 Do,5,1
 Si,4,1
-
-olcu 16:
 Do,5,4
-
-olcu 17:
 La,4,4
