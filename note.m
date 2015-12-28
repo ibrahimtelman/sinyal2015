@@ -1,8 +1,12 @@
-function [xx,tt] = note(frek,dur,fs=8192)
+function [xx,tt] = note(frek,dur)
     
     %% "fs" periyot başına istenilen örnek sayısı
 
-    tt = 0:1/fs:(dur-1/fs); %% Zaman 
+    fs=8192;
+    
+    T = 1/fs;
+    
+    tt = 0:T:(dur-T); %% Zaman 
     
     %%zarf için hazırlıklar
     elemanS = length(tt); %% Eleman sayısı
@@ -17,6 +21,18 @@ function [xx,tt] = note(frek,dur,fs=8192)
     
     zarf = [attack, decay, sustain, relase];
 
-    xx = zarf .* sin(2*pi*frek*tt + zarf); %% zarflı sinüs değerleri
+     h_k = [1, 0.8, 0.4, 0.1];
+
+     xx = zeros(1,elemanS);
+
+     
+     for i=1:length(h_k)
+        x = h_k(i).*zarf .* sin(2*pi*frek*tt);
+
+        xx = xx + x;
+
+        i = i+1;
+        
+     end
 
     
