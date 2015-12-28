@@ -49,4 +49,6 @@ M = max(notalar);
 
 notalar = notalar / M;
 
-audiowrite('caddelerde.wav',notalar,fs)
+plot(notalar)
+
+sound(notalar,fs)
