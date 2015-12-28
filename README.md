@@ -13,9 +13,11 @@ Proje: MATLAB ile sentezleme</br>
 
 "note.m" - Matlab - Girilen frekansa göre sinüs sinyali oluşturur</br>
 
-"sentez.m" - Matlab - ... </br>
+"sentez.m" - Matlab - Notaların işlenerek ses oluşturur </br>
 
 "frek.m" - Matlab - Girilen notaya ve oktava göre frekans verir </br>
+
+"caddelerde.wav" - Ses - Sonuç olarak çıkan ses </br>
 
 <hr>
 
