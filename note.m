@@ -27,12 +27,12 @@ function [xx,tt] = note(frek,dur)
 
      
      for i=1:length(h_k)
-        x = h_k(i).*zarf .* sin(2*pi*frek*tt);
+        x = h_k(i).* sin(2*pi*i*frek*tt);
 
         xx = xx + x;
 
-        i = i+1;
-        
      end
+     
+     xx = xx.*zarf;
 
     
