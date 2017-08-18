@@ -1,8 +1,6 @@
 # sinyal2015
 
 ibrahim Telman</br>
-030113005</br>
-Sinyal işleme</br>
 Proje: MATLAB ile sentezleme</br>
 
 <hr>
